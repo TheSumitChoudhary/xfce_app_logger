@@ -70,4 +70,4 @@ A typical log entry in the log file looks like this:
    3. Adjust the sleep interval to balance the granularity of logging and system performance impact.
 
 
-# Author - Sumit Choudhary
+#  Sumit Choudhary
